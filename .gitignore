@@ -1,0 +1,21 @@
+# Dependências
+node_modules/
+
+# MongoDB
+mongo-data/
+backend/mongo-data/
+
+# Angular
+.angular/
+
+# Build
+dist/
+
+# Logs
+*.log
+
+# Variáveis de ambiente
+.env
+
+# VS Code
+.vscode/
