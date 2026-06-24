@@ -1,3 +1,5 @@
+PROJETO PARA GERENCIAMENTO DE JOGO DE APOSTA
+
 # Modelagem MEAM
 
 Sistema WEB de gerenciamento de apostas da Copa do Mundo desenvolvido utilizando a stack **MEAN (MongoDB, Express, Angular e Node.js)**.
