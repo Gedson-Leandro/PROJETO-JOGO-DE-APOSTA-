@@ -70,6 +70,8 @@ modelagem-meam/
 ```bash
 git clone https://github.com/eliaferreira/modelagem-meam.git
 cd modelagem-meam
+
+ou baixe o modelagem-meam-main.zip e execute os seguintes comandos :
 ```
 
 ## Instalação das Dependências
